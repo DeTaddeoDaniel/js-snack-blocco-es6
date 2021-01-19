@@ -1,7 +1,6 @@
 // JSnack 1:
-// Utilizzando const e/o let. Inserire un numero:
-// - se è pari stampa il numero, 
-// - se è dispari stampa il numero successivo.
+// Utilizzando const e/o let. Dare la possibilità di inserire due parole. Verificare se le due parole 
+// hanno la stessa lunghezza. Se hanno la stessa lunghezza, stamparle entrambe altrimenti stampare la più lunga delle due.
 
 $(document).ready(function () {
 
